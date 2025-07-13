@@ -2,7 +2,6 @@
 
 Junior software engineer currently working with Quarkus and Angular.
 
----
 
 ## 🚀 Tech Stack
 
@@ -30,7 +29,6 @@ Junior software engineer currently working with Quarkus and Angular.
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
 </p>
 
----
 
 ## 🛠 Tools I Use
 
@@ -44,7 +42,6 @@ Junior software engineer currently working with Quarkus and Angular.
   <img src="https://img.shields.io/badge/Aerospace-blue?style=flat" />
 </p>
 
----
 
 ## 🧩 Featured Project
 
@@ -53,7 +50,6 @@ Junior software engineer currently working with Quarkus and Angular.
 A full-stack inventory management system built with **Vaadin Flow** and **Spring Boot**.  
 I developed the frontend using Vaadin Flow to create a responsive UI tightly integrated with backend services.
 
----
 
 ## 📈 GitHub Stats
 
@@ -62,7 +58,6 @@ I developed the frontend using Vaadin Flow to create a responsive UI tightly int
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszivko&layout=compact&theme=github_dark&hide_title=true" />
 </div>
 
----
 
 ## 📫 Connect with Me
 
