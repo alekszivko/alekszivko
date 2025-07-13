@@ -3,6 +3,15 @@
 Junior software engineer currently working with Quarkus and Angular.
 
 
+## 📫 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/x00x01/">
+    <img src="https://img.shields.io/badge/LinkedIn-x00x01-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+
 ## 🚀 Tech Stack
 
 **Frontend**  
@@ -57,16 +66,3 @@ I developed the frontend using Vaadin Flow to create a responsive UI tightly int
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=alekszivko&show_icons=true&theme=github_dark&hide=issues&hide_title=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszivko&layout=compact&theme=github_dark&hide_title=true" />
 </div>
-
-
-## 📫 Connect with Me
-
-<p>
-  <a href="https://www.linkedin.com/in/x00x01/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alekszivko-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=alekszivko&style=flat&color=gray" alt="Visitor counter" />
-</p>
