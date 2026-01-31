@@ -58,11 +58,3 @@ Junior software engineer currently working with Quarkus and Angular.
 
 A full-stack inventory management system built with **Vaadin Flow** and **Spring Boot**.  
 I developed the frontend using Vaadin Flow to create a responsive UI tightly integrated with backend services.
-
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=alekszivko&show_icons=true&theme=github_dark&hide=issues&hide_title=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekszivko&layout=compact&theme=github_dark&hide_title=true" />
-</div>
